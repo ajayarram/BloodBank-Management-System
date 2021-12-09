@@ -27,6 +27,6 @@
 - Right click and select Run as spring boot application
 - Project starts on a default port
 
-## how to display in browser
+## how to display in browserr
 
 Open chrome and enter (http://localhost:8081/donors) 
